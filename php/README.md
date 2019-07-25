@@ -32,7 +32,7 @@
     
     2. 大聲喊叫 => Whoa, chill out!
     
-    3. 大聲詢問問題 => Calm down, I know what I’m doing!
+    3. 大聲詢問問題 => Calm down, I know what I'm doing!
     
     4. 叫他，但不說任何話 => Fine. Be that way!
     
