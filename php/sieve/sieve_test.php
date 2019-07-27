@@ -4,8 +4,7 @@ class SieveTest extends PHPUnit\Framework\TestCase
 {
     public function testNoPrimesUnderTwo()
     {
-        sieve(1);
-        $this->assertEquals([], []);
+        $this->assertEquals([], sieve(1));
     }
     public function testFindFirstPrime()
     {
